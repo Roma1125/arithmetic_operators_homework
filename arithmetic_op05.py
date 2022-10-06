@@ -1,5 +1,5 @@
 #Create a variable called 'number' with data type int.
-number=int(input())
+number=34
  
 #Create a variable called 'answer'
 answer=number%3
